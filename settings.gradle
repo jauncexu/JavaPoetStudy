@@ -1,0 +1,4 @@
+include ':arouter-compiler'
+include ':arouter-annotations'
+include ':app'
+rootProject.name = "JavaPoetStudy"
